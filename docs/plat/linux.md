@@ -1,4 +1,4 @@
-# Linux <img src="../../image/Linux_logo.svg" alt="Linux logo" height="45pt" width="!" /> (to be improved)
+# Linux <img src="../../image/Linux_logo.png" alt="Linux logo" height="45pt" width="!" /> (to be improved)
 
 |Title|Link|
 |-----|----|

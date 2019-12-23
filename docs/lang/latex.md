@@ -1,4 +1,4 @@
-# LaTeX <img src="../../image/LaTeX_logo.svg" alt="LaTeX logo" height="45pt" width="!" />
+# LaTeX <img src="../../image/LaTeX_logo.png" alt="LaTeX logo" height="45pt" width="!" />
 
 |Title|Link|
 |-----|----|

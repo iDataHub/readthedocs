@@ -1,4 +1,4 @@
-# Git <img src="../../image/Git_logo.svg" alt="Git logo" height="45pt" width="!" /> (to be improved)
+# Git <img src="../../image/Git_logo.png" alt="Git logo" height="45pt" width="!" /> (to be improved)
 
 |Title|Link|
 |-----|----|

@@ -1,4 +1,4 @@
-# R <img src="../../image/R_logo.svg" alt="R logo" height="45pt" width="!" />
+# R <img src="../../image/R_logo.png" alt="R logo" height="45pt" width="!" />
 
 |Title|Link|
 |-----|----|

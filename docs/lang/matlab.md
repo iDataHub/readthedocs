@@ -1,4 +1,4 @@
-# MATLAB <img src="../../image/MATLAB_logo.svg" alt="MATLAB logo" height="45pt" width="!" /> (to be improved)
+# MATLAB <img src="../../image/MATLAB_logo.png" alt="MATLAB logo" height="45pt" width="!" /> (to be improved)
 
 |Title|Link|
 |-----|----|

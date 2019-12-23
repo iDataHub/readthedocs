@@ -1,4 +1,4 @@
-# Python <img src="../../image/Python_logo.svg" alt="Python logo" height="45pt" width="!" /> (to be improved)
+# Python <img src="../../image/Python_logo.png" alt="Python logo" height="45pt" width="!" /> (to be improved)
 
 |Title|Link|
 |-----|----|
