@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Welcome to DataHub
+> The data science hub for students at SUSTech.
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+- DataHub is an interdisciplinary students’ organization that promotes data science across both the SUSTech community and our city Shenzhen.
+- Our mission is to help students connect with each other, academics, and industry; learn the tools, techniques, and reality of data science; and practice their skills.
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Teaching
+> Demand-oriented and practical; First-hand or global; Not satisfied.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Online Resources:
+    - Python and data science, R learning route,  TeX learning route, etc.
+- Workshops:
+    - Our project teams regularly share progress and some details (every two weeks), where you can 1) learn industry mainstream algorithms and tools, 2) put what you learned in the class into practice, 3) understand project workflow.
+- QuickStart Tutorials:
+    - Getting started is difficult, especially when lack of domain knowledge, therefore we need global guidance for future learning. We provide a QuickStart tutorial on different topics for every week or every two weeks, to give you a quick taste on specific domain.
