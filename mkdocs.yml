@@ -12,3 +12,5 @@ nav:
         - 'MATLAB': 'lang/matlab.md'
         - 'R': 'lang/r.md'
         - 'LaTeX': 'lang/latex.md'
+    - Field:
+        - 'NLP': 'field/nlp.md'
