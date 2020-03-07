@@ -12,9 +12,9 @@ If you want to get started with `git`, you should know some basic [terminology](
 |Title|Link|
 |-----|----|
 |廖雪峰 Git 教程|[liaoxuefeng.com/wiki/896043488029600](https://www.liaoxuefeng.com/wiki/896043488029600)|
-|GitHub Learning Lab|[https://lab.github.com/](https://lab.github.com/)|
+|GitHub Learning Lab|[lab.github.com/](https://lab.github.com/)|
 |GitHub Guides|[guides.github.com](https://guides.github.com/)|
 |GitHub Desktop|[desktop.github.com](https://desktop.github.com/)|
 |Git \| GitLab|[docs.gitlab.com/ee/topics/git](https://docs.gitlab.com/ee/topics/git/)|
-|Git History|[https://github.com/pomber/git-history](https://githistory.xyz/)|
-|LearnGitBranching|[https://github.com/pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching)|
+|Git History|[github.com/pomber/git-history](https://githistory.xyz/)|
+|LearnGitBranching|[github.com/pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching)|

@@ -17,4 +17,4 @@
 ## References
 |Title|Link|
 |-----|----|
-|Why prefer a package manager?|[https://softwareengineering.stackexchange.com/questions/372444](https://softwareengineering.stackexchange.com/questions/372444/why-prefer-a-package-manager-over-a-library-folder)|
+|Why prefer a package manager?|[softwareengineering.stackexchange.com/questions/372444](https://softwareengineering.stackexchange.com/questions/372444/why-prefer-a-package-manager-over-a-library-folder)|

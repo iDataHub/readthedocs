@@ -32,7 +32,7 @@ Namespaces are one honking great idea -- let's do more of those!
 |-----|----|
 |Python Documentation|[docs.python.org](https://docs.python.org/)|
 |Package Documentation|[pypi.org](https://pypi.org/)|
-|Python Enhancement Proposals (PEPs)|[https://www.python.org/dev/peps/](https://www.python.org/dev/peps/)|
-|Python - 100天从新手到大师|[https://github.com/jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)|
+|Python Enhancement Proposals (PEPs)|[python.org/dev/peps/](https://www.python.org/dev/peps/)|
+|Python - 100天从新手到大师|[github.com/jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)|
 |Learning Paths|[realpython.com/learning-paths](https://realpython.com/learning-paths/)|
-|The Python programming language|[https://github.com/python/cpython](https://github.com/python/cpython)|
+|The Python programming language|[github.com/python/cpython](https://github.com/python/cpython)|

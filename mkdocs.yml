@@ -15,3 +15,6 @@ nav:
         - 'LaTeX': 'lang/latex.md'
     - Field:
         - 'NLP': 'field/nlp.md'
+        - 'Deep Learning': 'field/deep.md'
+    - Framework:
+        - 'PyTorch': 'frame/pytorch.md'
