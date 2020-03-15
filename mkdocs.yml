@@ -7,6 +7,7 @@ nav:
         'Linux': 'plat/linux.md'
     - Software:
         'Git': 'soft/git.md'
+        'Docker': 'soft/docker.md'
         'Package Manager': 'soft/pack.md'
     - Language:
         - 'Python': 'lang/python.md'
